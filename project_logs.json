@@ -1,0 +1,20 @@
+{"timestamp": "2024-11-03T23:16:34.553352", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement de la charte des calques", "details": {"fichier_charte": "charte_graphique.json", "status": "succ\u00e8s"}}
+DXF version upgrade to DXF R2000.
+creating ACAD_PLOTSTYLENAME dictionary
+creating ACAD_TABLESTYLE dictionary
+{"timestamp": "2024-11-03T23:16:34.575614", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement du fichier DXF", "details": {"fichier_DXF": "exemple.dxf", "status": "succ\u00e8s"}}
+{"timestamp": "2024-11-03T23:17:31.796022", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement de la charte des calques", "details": {"fichier_charte": "charte_graphique.json", "status": "succ\u00e8s"}}
+DXF version upgrade to DXF R2000.
+creating ACAD_PLOTSTYLENAME dictionary
+creating ACAD_TABLESTYLE dictionary
+{"timestamp": "2024-11-03T23:17:31.830807", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement du fichier DXF", "details": {"fichier_DXF": "exemple.dxf", "status": "succ\u00e8s"}}
+{"timestamp": "2024-11-03T23:18:46.179220", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement de la charte des calques", "details": {"fichier_charte": "charte_graphique.json", "status": "succ\u00e8s"}}
+DXF version upgrade to DXF R2000.
+creating ACAD_PLOTSTYLENAME dictionary
+creating ACAD_TABLESTYLE dictionary
+{"timestamp": "2024-11-03T23:18:46.203423", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement du fichier DXF", "details": {"fichier_DXF": "exemple.dxf", "status": "succ\u00e8s"}}
+{"timestamp": "2024-11-03T23:21:41.705527", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement de la charte des calques", "details": {"fichier_charte": "charte_graphique.json", "status": "succ\u00e8s"}}
+DXF version upgrade to DXF R2000.
+creating ACAD_PLOTSTYLENAME dictionary
+creating ACAD_TABLESTYLE dictionary
+{"timestamp": "2024-11-03T23:21:41.739438", "module": "Mise \u00e0 la Charte Graphique", "action": "Chargement du fichier DXF", "details": {"fichier_DXF": "exemple.dxf", "status": "succ\u00e8s"}}
