@@ -1,0 +1,14 @@
+[
+    {
+        "layer_name": "C-ROAD",
+        "color": "blue",
+        "line_weight": "0.50",
+        "description": "Routes"
+    },
+    {
+        "layer_name": "C-BUILD",
+        "color": "green",
+        "line_weight": "0.25",
+        "description": "Bâtiments"
+    }
+]
