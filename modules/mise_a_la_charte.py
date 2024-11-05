@@ -2,7 +2,7 @@ import json
 import subprocess
 import time
 from pyautocad import Autocad
-from logging_config import log_event
+from modules.logging_config import log_event
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
