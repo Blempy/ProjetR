@@ -1,14 +1,34 @@
-[
-    {
-        "layer_name": "C-ROAD",
-        "color": "blue",
-        "line_weight": "0.50",
-        "description": "Routes"
-    },
-    {
-        "layer_name": "C-BUILD",
-        "color": "green",
-        "line_weight": "0.25",
-        "description": "Bâtiments"
-    }
-]
+{
+    "Travaux Préparatoires": [
+        {
+            "layer_name": "PR_CLOTURES",
+            "color": "green",
+            "line_weight": "0.5"
+        },
+        {
+            "layer_name": "PR_MOBILIER",
+            "color": "blue",
+            "line_weight": "0.25"
+        },
+        {
+            "layer_name": "PR_VOIRIE",
+            "color": "blue",
+            "line_weight": "0.25"
+        },
+        {
+            "layer_name": "PR_RSX_ASSAINISSEMENT",
+            "color": "blue",
+            "line_weight": "0.25"
+        },
+        {
+            "layer_name": "PR_BATIMENT",
+            "color": "blue",
+            "line_weight": "0.25"
+        },
+        {
+            "layer_name": "PR_COTATION",
+            "color": "blue",
+            "line_weight": "0.25"
+        }
+    ]
+}
