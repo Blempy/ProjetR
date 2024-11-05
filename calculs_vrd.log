@@ -1,0 +1,147 @@
+2024-11-05 16:10:13,600:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:10:13,600:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:10:13,605:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:10:13,605:INFO:Chargement de la charte - {'fichier_charte': 'C:\\ProjetR\\charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:10:18,888:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:10:49,143:ERROR:Erreur ouverture fichier - {'fichier': 'C:\\ProjetR\\exemple.dwg', 'erreur': "(-2147352567, 'Une exception s’est produite.', ('Fichier C:\\\\ProjetR\\\\exemple.dwg introuvable', 'Covadis 18.3b', 'C:\\\\Program Files\\\\Autodesk\\\\AutoCAD 2021\\\\HELP\\\\OLE_ERR.CHM', -2145320924, None))"}
+2024-11-05 16:11:20,225:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:11:20,225:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:11:20,229:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:11:20,230:INFO:Chargement de la charte - {'fichier_charte': 'C:\\ProjetR\\charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:11:25,490:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:11:55,715:ERROR:Erreur ouverture fichier - {'fichier': 'C:\\ProjetR\\exemple.dwg', 'erreur': "(-2147352567, 'Une exception s’est produite.', ('Fichier C:\\\\ProjetR\\\\exemple.dwg introuvable', 'Covadis 18.3b', 'C:\\\\Program Files\\\\Autodesk\\\\AutoCAD 2021\\\\HELP\\\\OLE_ERR.CHM', -2145320924, None))"}
+2024-11-05 16:12:23,135:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:12:23,135:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:12:23,139:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:12:23,139:INFO:Chargement de la charte - {'fichier_charte': 'C:\\ProjetR\\charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:12:28,430:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:12:58,653:ERROR:Erreur ouverture fichier - {'fichier': 'C:\\ProjetR\\exemple.dwg', 'erreur': "(-2147352567, 'Une exception s’est produite.', ('Fichier C:\\\\ProjetR\\\\exemple.dwg introuvable', 'Covadis 18.3b', 'C:\\\\Program Files\\\\Autodesk\\\\AutoCAD 2021\\\\HELP\\\\OLE_ERR.CHM', -2145320924, None))"}
+2024-11-05 16:15:41,402:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:15:41,402:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:15:41,406:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:15:55,353:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:15:55,353:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:15:55,358:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:15:55,358:INFO:Chargement de la charte - {'fichier_charte': 'C:\\ProjetR\\charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:16:00,632:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:16:30,873:ERROR:Erreur ouverture fichier - {'fichier': 'C:\\ProjetR\\exemple.dwg', 'erreur': "(-2147352567, 'Une exception s’est produite.', ('Fichier C:\\\\ProjetR\\\\exemple.dwg introuvable', 'Covadis 18.3b', 'C:\\\\Program Files\\\\Autodesk\\\\AutoCAD 2021\\\\HELP\\\\OLE_ERR.CHM', -2145320924, None))"}
+2024-11-05 16:18:51,007:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:18:51,007:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:18:51,011:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:18:51,011:INFO:Chargement de la charte - {'fichier_charte': 'C:\\ProjetR\\charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:18:56,279:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:19:26,546:ERROR:Erreur ouverture fichier - {'fichier': 'C:\\ProjetR\\exemple.dwg', 'erreur': "(-2147352567, 'Une exception s’est produite.', ('Fichier C:\\\\ProjetR\\\\exemple.dwg introuvable', 'Covadis 18.3b', 'C:\\\\Program Files\\\\Autodesk\\\\AutoCAD 2021\\\\HELP\\\\OLE_ERR.CHM', -2145320924, None))"}
+2024-11-05 16:19:38,890:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:19:38,891:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:19:38,894:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:19:38,895:INFO:Chargement de la charte - {'fichier_charte': 'C:\\ProjetR\\charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:19:44,144:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:20:18,302:INFO:Ouverture du fichier DWG - {'fichier': 'C:\\ProjetR\\dwg_dxf\\topo_001.dwg'}
+2024-11-05 16:20:23,427:WARNING:Aucun mapping trouvé - {'calque': '0'}
+2024-11-05 16:20:23,523:INFO:Application des paramètres - {'calque': 'PR_MOBILIER', 'status': 'modifié'}
+2024-11-05 16:20:23,609:INFO:Application des paramètres - {'calque': 'PR_CLOTURES', 'status': 'modifié'}
+2024-11-05 16:20:23,609:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EDF'}
+2024-11-05 16:20:23,609:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - ASSAINIS'}
+2024-11-05 16:20:23,609:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - Talus'}
+2024-11-05 16:20:23,610:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - VOIES'}
+2024-11-05 16:20:23,610:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BATI'}
+2024-11-05 16:20:23,610:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - VEGET'}
+2024-11-05 16:20:23,610:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BORDURES'}
+2024-11-05 16:20:23,611:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - MURS'}
+2024-11-05 16:20:23,688:INFO:Application des paramètres - {'calque': 'PR_COTATION', 'status': 'modifié'}
+2024-11-05 16:20:23,688:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EP'}
+2024-11-05 16:20:23,688:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - PTT'}
+2024-11-05 16:20:23,689:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - ALLEE'}
+2024-11-05 16:20:23,689:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - DBA'}
+2024-11-05 16:20:23,689:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - HTALUS'}
+2024-11-05 16:20:23,689:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BTALUS'}
+2024-11-05 16:20:23,690:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - OUVRAGE'}
+2024-11-05 16:20:23,690:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - GLISSIERE'}
+2024-11-05 16:20:23,690:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - HACHURES'}
+2024-11-05 16:20:23,690:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - TEXTE'}
+2024-11-05 16:20:23,691:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - RECO-GÉN'}
+2024-11-05 16:20:23,691:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EU'}
+2024-11-05 16:20:23,691:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - SIG-ROUT'}
+2024-11-05 16:20:23,691:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - FOURREAU'}
+2024-11-05 16:20:23,691:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EAUP'}
+2024-11-05 16:20:23,692:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - TOPO'}
+2024-11-05 16:20:23,692:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BORNES'}
+2024-11-05 16:20:23,692:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BET-LAV'}
+2024-11-05 16:20:23,692:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - POINT 2D'}
+2024-11-05 16:20:23,692:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - Z'}
+2024-11-05 16:20:23,892:INFO:Enregistrement - {'fichier': 'C:\\ProjetR\\topo_001_mise_a_jour.dwg'}
+2024-11-05 16:23:15,238:INFO:Erreur dans le calcul de surface - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:23:15,238:INFO:Erreur dans le calcul de longueur - {'calque': 'LayerName', 'erreur': "Autocad.iter_objects() got an unexpected keyword argument 'layer'"}
+2024-11-05 16:23:15,242:INFO:Erreur lors de l'export des résultats - {'fichier': 'results.xlsx', 'erreur': "No module named 'openpyxl'"}
+2024-11-05 16:23:18,679:INFO:Chargement de la charte - {'fichier_charte': 'charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:23:23,933:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:23:57,941:INFO:Ouverture du fichier DWG - {'fichier': 'C:\\ProjetR\\dwg_dxf\\topo_001.dwg'}
+2024-11-05 16:24:03,074:WARNING:Aucun mapping trouvé - {'calque': '0'}
+2024-11-05 16:24:03,166:INFO:Application des paramètres - {'calque': 'PR_MOBILIER', 'status': 'modifié'}
+2024-11-05 16:24:03,237:INFO:Application des paramètres - {'calque': 'PR_CLOTURES', 'status': 'modifié'}
+2024-11-05 16:24:03,238:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EDF'}
+2024-11-05 16:24:03,238:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - ASSAINIS'}
+2024-11-05 16:24:03,238:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - Talus'}
+2024-11-05 16:24:03,238:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - VOIES'}
+2024-11-05 16:24:03,239:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BATI'}
+2024-11-05 16:24:03,239:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - VEGET'}
+2024-11-05 16:24:03,239:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BORDURES'}
+2024-11-05 16:24:03,239:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - MURS'}
+2024-11-05 16:24:03,325:INFO:Application des paramètres - {'calque': 'PR_COTATION', 'status': 'modifié'}
+2024-11-05 16:24:03,326:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EP'}
+2024-11-05 16:24:03,326:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - PTT'}
+2024-11-05 16:24:03,326:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - ALLEE'}
+2024-11-05 16:24:03,326:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - DBA'}
+2024-11-05 16:24:03,327:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - HTALUS'}
+2024-11-05 16:24:03,327:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BTALUS'}
+2024-11-05 16:24:03,327:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - OUVRAGE'}
+2024-11-05 16:24:03,327:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - GLISSIERE'}
+2024-11-05 16:24:03,327:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - HACHURES'}
+2024-11-05 16:24:03,328:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - TEXTE'}
+2024-11-05 16:24:03,328:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - RECO-GÉN'}
+2024-11-05 16:24:03,328:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EU'}
+2024-11-05 16:24:03,328:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - SIG-ROUT'}
+2024-11-05 16:24:03,329:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - FOURREAU'}
+2024-11-05 16:24:03,329:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EAUP'}
+2024-11-05 16:24:03,329:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - TOPO'}
+2024-11-05 16:24:03,329:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BORNES'}
+2024-11-05 16:24:03,329:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BET-LAV'}
+2024-11-05 16:24:03,330:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - POINT 2D'}
+2024-11-05 16:24:03,330:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - Z'}
+2024-11-05 16:24:03,549:INFO:Enregistrement - {'fichier': 'C:\\ProjetR\\topo_001_mise_a_jour.dwg'}
+2024-11-05 16:24:40,273:INFO:Chargement de la charte - {'fichier_charte': 'charte_graphique.json', 'status': 'succès'}
+2024-11-05 16:24:45,498:INFO:Lancement d'AutoCAD - {'status': 'succès'}
+2024-11-05 16:25:19,428:INFO:Ouverture du fichier DWG - {'fichier': 'C:\\ProjetR\\dwg_dxf\\topo_001.dwg'}
+2024-11-05 16:25:24,544:WARNING:Aucun mapping trouvé - {'calque': '0'}
+2024-11-05 16:25:24,630:INFO:Application des paramètres - {'calque': 'PR_MOBILIER', 'status': 'modifié'}
+2024-11-05 16:25:24,704:INFO:Application des paramètres - {'calque': 'PR_CLOTURES', 'status': 'modifié'}
+2024-11-05 16:25:24,705:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EDF'}
+2024-11-05 16:25:24,705:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - ASSAINIS'}
+2024-11-05 16:25:24,705:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - Talus'}
+2024-11-05 16:25:24,706:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - VOIES'}
+2024-11-05 16:25:24,706:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BATI'}
+2024-11-05 16:25:24,706:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - VEGET'}
+2024-11-05 16:25:24,706:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BORDURES'}
+2024-11-05 16:25:24,706:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - MURS'}
+2024-11-05 16:25:24,785:INFO:Application des paramètres - {'calque': 'PR_COTATION', 'status': 'modifié'}
+2024-11-05 16:25:24,785:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EP'}
+2024-11-05 16:25:24,785:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - PTT'}
+2024-11-05 16:25:24,785:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - ALLEE'}
+2024-11-05 16:25:24,786:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - DBA'}
+2024-11-05 16:25:24,786:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - HTALUS'}
+2024-11-05 16:25:24,786:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BTALUS'}
+2024-11-05 16:25:24,786:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - OUVRAGE'}
+2024-11-05 16:25:24,787:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - GLISSIERE'}
+2024-11-05 16:25:24,787:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - HACHURES'}
+2024-11-05 16:25:24,787:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - TEXTE'}
+2024-11-05 16:25:24,787:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - RECO-GÉN'}
+2024-11-05 16:25:24,787:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EU'}
+2024-11-05 16:25:24,788:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - SIG-ROUT'}
+2024-11-05 16:25:24,788:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - FOURREAU'}
+2024-11-05 16:25:24,788:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - EAUP'}
+2024-11-05 16:25:24,788:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - TOPO'}
+2024-11-05 16:25:24,788:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BORNES'}
+2024-11-05 16:25:24,789:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - BET-LAV'}
+2024-11-05 16:25:24,789:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - POINT 2D'}
+2024-11-05 16:25:24,789:WARNING:Aucun mapping trouvé - {'calque': 'C15785 - Z'}
+2024-11-05 16:25:24,972:INFO:Enregistrement - {'fichier': 'C:\\ProjetR\\topo_001_mise_a_jour.dwg'}
