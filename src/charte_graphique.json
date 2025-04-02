@@ -1,0 +1,22 @@
+{
+  "calques_standard": {
+    "BLM_ESP_VERTS": {
+      "couleur": 3,
+      "type_ligne": "POINTILLE",
+      "gel\u00e9": false,
+      "verrouill\u00e9": false
+    },
+    "VRD_EXISTANT": {
+      "couleur": 8,
+      "type_ligne": "CONTINU",
+      "gel\u00e9": true,
+      "verrouill\u00e9": true
+    },
+    "VRD_EP": {
+      "couleur": 4,
+      "type_ligne": "POINTS",
+      "gel\u00e9": false,
+      "verrouill\u00e9": false
+    }
+  }
+}
